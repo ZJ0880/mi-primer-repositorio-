@@ -7,8 +7,7 @@ El uso de ramas (branching) en Git permite trabajar en nuevas funciones o arregl
 
 También aprendí que existen repositorios locales (los que se guardan en el equipo) y remotos (los que están en plataformas como GitHub). Se pueden conectar entre sí para subir los cambios que se hacen localmente. Por último, las claves SSH sirven para conectarse a GitHub de forma segura sin tener que escribir la contraseña cada vez.
 
-📝 Comandos de Git más importantes y su función
-Comando	Función
+📝 Comandos de Git más importantes
 git init	Inicializa un nuevo repositorio Git local.
 git clone <url>	Clona un repositorio remoto a tu máquina local.
 git status	Muestra el estado de los archivos en el repositorio.
